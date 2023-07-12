@@ -1,0 +1,15 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\bin\Debug\net6.0\TiposDeDados2.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\bin\Debug\net6.0\TiposDeDados2.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\bin\Debug\net6.0\TiposDeDados2.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\bin\Debug\net6.0\TiposDeDados2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\bin\Debug\net6.0\TiposDeDados2.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.csproj.AssemblyReference.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\refint\TiposDeDados2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\TiposDeDados2.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados2\obj\Debug\net6.0\ref\TiposDeDados2.dll
