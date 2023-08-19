@@ -3,7 +3,6 @@ C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\bin\Debug
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.runtimeconfig.json
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.dll
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.pdb
-C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.csproj.AssemblyReference.cache
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.AssemblyInfoInputs.cache
 C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.AssemblyInfo.cs
