@@ -8,23 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\devze\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Lukka\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
       "projectName": "TiposDeDados3",
-      "projectPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
-      "packagesPath": "C:\\Users\\devze\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\obj\\",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+      "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\CSFundamentos1\\TiposDeDados3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\devze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
