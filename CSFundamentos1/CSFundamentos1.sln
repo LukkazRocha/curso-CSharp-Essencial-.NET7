@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "NullableT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{C0236329-43AC-4BE1-8A52-69382C24B480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{F216CCA6-9D35-4BA8-A1C5-7464FC30FCC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C0236329-43AC-4BE1-8A52-69382C24B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0236329-43AC-4BE1-8A52-69382C24B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0236329-43AC-4BE1-8A52-69382C24B480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F216CCA6-9D35-4BA8-A1C5-7464FC30FCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F216CCA6-9D35-4BA8-A1C5-7464FC30FCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F216CCA6-9D35-4BA8-A1C5-7464FC30FCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F216CCA6-9D35-4BA8-A1C5-7464FC30FCC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
