@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\refint\SaidaDados.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\SaidaDados\obj\Debug\net7.0\ref\SaidaDados.dll
