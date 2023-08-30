@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\bin\Debug\net7.0\2ConversaoTipos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\bin\Debug\net7.0\2ConversaoTipos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\bin\Debug\net7.0\2ConversaoTipos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\bin\Debug\net7.0\2ConversaoTipos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\bin\Debug\net7.0\2ConversaoTipos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\refint\2ConversaoTipos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\2ConversaoTipos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\2ConversaoTipos\obj\Debug\net7.0\ref\2ConversaoTipos.dll
