@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\refint\OperadoresAritmeticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net7.0\ref\OperadoresAritmeticos.dll
