@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\bin\Debug\net7.0\OperadoresLogicos1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\bin\Debug\net7.0\OperadoresLogicos1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\bin\Debug\net7.0\OperadoresLogicos1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\bin\Debug\net7.0\OperadoresLogicos1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\bin\Debug\net7.0\OperadoresLogicos1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\refint\OperadoresLogicos1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\OperadoresLogicos1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresLogicos1\obj\Debug\net7.0\ref\OperadoresLogicos1.dll

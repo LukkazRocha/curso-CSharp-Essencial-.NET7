@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net7.0\OperadoresIncrementoDecremento.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net7.0\OperadoresIncrementoDecremento.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net7.0\OperadoresIncrementoDecremento.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net7.0\OperadoresIncrementoDecremento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net7.0\OperadoresIncrementoDecremento.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\refint\OperadoresIncrementoDecremento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\OperadoresIncrementoDecremento.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net7.0\ref\OperadoresIncrementoDecremento.dll

@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net7.0\OperadoresRelacionais1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net7.0\OperadoresRelacionais1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net7.0\OperadoresRelacionais1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net7.0\OperadoresRelacionais1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net7.0\OperadoresRelacionais1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\refint\OperadoresRelacionais1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\OperadoresRelacionais1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net7.0\ref\OperadoresRelacionais1.dll
