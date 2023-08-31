@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\bin\Debug\net7.0\ProcedenciaOperadores1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\bin\Debug\net7.0\ProcedenciaOperadores1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\bin\Debug\net7.0\ProcedenciaOperadores1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\bin\Debug\net7.0\ProcedenciaOperadores1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\bin\Debug\net7.0\ProcedenciaOperadores1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\refint\ProcedenciaOperadores1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ProcedenciaOperadores1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\ProcedenciaOperadores1\obj\Debug\net7.0\ref\ProcedenciaOperadores1.dll
