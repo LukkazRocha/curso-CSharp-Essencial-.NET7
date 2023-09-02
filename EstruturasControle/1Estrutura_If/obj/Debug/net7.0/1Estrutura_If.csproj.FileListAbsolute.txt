@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\bin\Debug\net7.0\1Estrutura_If.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\bin\Debug\net7.0\1Estrutura_If.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\bin\Debug\net7.0\1Estrutura_If.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\bin\Debug\net7.0\1Estrutura_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\bin\Debug\net7.0\1Estrutura_If.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\refint\1Estrutura_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\1Estrutura_If.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\1Estrutura_If\obj\Debug\net7.0\ref\1Estrutura_If.dll

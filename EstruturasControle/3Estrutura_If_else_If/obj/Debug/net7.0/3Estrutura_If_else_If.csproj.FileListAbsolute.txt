@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\bin\Debug\net7.0\3Estrutura_If_else_If.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\bin\Debug\net7.0\3Estrutura_If_else_If.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\bin\Debug\net7.0\3Estrutura_If_else_If.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\bin\Debug\net7.0\3Estrutura_If_else_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\bin\Debug\net7.0\3Estrutura_If_else_If.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\refint\3Estrutura_If_else_If.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\3Estrutura_If_else_If.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\3Estrutura_If_else_If\obj\Debug\net7.0\ref\3Estrutura_If_else_If.dll
