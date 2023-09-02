@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\bin\Debug\net7.0\TiposReferenciaAnulaveis1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\bin\Debug\net7.0\TiposReferenciaAnulaveis1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\bin\Debug\net7.0\TiposReferenciaAnulaveis1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\bin\Debug\net7.0\TiposReferenciaAnulaveis1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\bin\Debug\net7.0\TiposReferenciaAnulaveis1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\refint\TiposReferenciaAnulaveis1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\TiposReferenciaAnulaveis1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\TiposReferenciaAnulaveis1\obj\Debug\net7.0\ref\TiposReferenciaAnulaveis1.dll

@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\bin\Debug\net7.0\OperedorUniarioTernario.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\bin\Debug\net7.0\OperedorUniarioTernario.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\bin\Debug\net7.0\OperedorUniarioTernario.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\bin\Debug\net7.0\OperedorUniarioTernario.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\bin\Debug\net7.0\OperedorUniarioTernario.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\refint\OperedorUniarioTernario.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\OperedorUniarioTernario.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\CSFundamentos1\OperedorUniarioTernario\obj\Debug\net7.0\ref\OperedorUniarioTernario.dll

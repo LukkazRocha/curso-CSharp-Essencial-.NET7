@@ -29,13 +29,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaTipos1", "Inferen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes1", "Constantes1\Constantes1.csproj", "{C9CFCED6-42F3-4373-AB11-CA74C698985A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncrementoDecremento", "OperadoresIncrementoDecremento\OperadoresIncrementoDecremento.csproj", "{E06F897C-0C8C-411C-ADFD-FA162B999E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresIncrementoDecremento", "OperadoresIncrementoDecremento\OperadoresIncrementoDecremento.csproj", "{E06F897C-0C8C-411C-ADFD-FA162B999E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{F772AF1A-D4AC-4C4C-BA0A-082BA05E44A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{F772AF1A-D4AC-4C4C-BA0A-082BA05E44A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{CF81EED1-90E9-4D78-8BE6-853C57213565}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{CF81EED1-90E9-4D78-8BE6-853C57213565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcedenciaOperadores1", "ProcedenciaOperadores1\ProcedenciaOperadores1.csproj", "{6BD1F761-F358-40D5-A50A-857A567FDBC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcedenciaOperadores1", "ProcedenciaOperadores1\ProcedenciaOperadores1.csproj", "{6BD1F761-F358-40D5-A50A-857A567FDBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposReferenciaAnulaveis1", "TiposReferenciaAnulaveis1\TiposReferenciaAnulaveis1.csproj", "{4F10F2CA-F3DE-4E1D-9914-DA7C1B2C91F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperedorUniarioTernario", "OperedorUniarioTernario\OperedorUniarioTernario.csproj", "{62260B7C-B021-46C0-8019-14222585ADDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{6BD1F761-F358-40D5-A50A-857A567FDBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BD1F761-F358-40D5-A50A-857A567FDBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BD1F761-F358-40D5-A50A-857A567FDBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F10F2CA-F3DE-4E1D-9914-DA7C1B2C91F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F10F2CA-F3DE-4E1D-9914-DA7C1B2C91F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F10F2CA-F3DE-4E1D-9914-DA7C1B2C91F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F10F2CA-F3DE-4E1D-9914-DA7C1B2C91F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62260B7C-B021-46C0-8019-14222585ADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62260B7C-B021-46C0-8019-14222585ADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62260B7C-B021-46C0-8019-14222585ADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62260B7C-B021-46C0-8019-14222585ADDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
