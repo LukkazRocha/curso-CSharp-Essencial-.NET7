@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Repeticao_goto/1.0.0": {
+        "runtime": {
+          "Repeticao_goto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repeticao_goto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

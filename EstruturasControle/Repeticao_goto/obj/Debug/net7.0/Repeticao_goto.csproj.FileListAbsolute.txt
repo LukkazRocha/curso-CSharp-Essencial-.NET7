@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\bin\Debug\net7.0\Repeticao_goto.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\bin\Debug\net7.0\Repeticao_goto.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\bin\Debug\net7.0\Repeticao_goto.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\bin\Debug\net7.0\Repeticao_goto.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\bin\Debug\net7.0\Repeticao_goto.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\refint\Repeticao_goto.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\Repeticao_goto.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\Repeticao_goto\obj\Debug\net7.0\ref\Repeticao_goto.dll
