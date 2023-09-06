@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\bin\Debug\net7.0\3MetodosParametros.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\bin\Debug\net7.0\3MetodosParametros.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\bin\Debug\net7.0\3MetodosParametros.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\bin\Debug\net7.0\3MetodosParametros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\bin\Debug\net7.0\3MetodosParametros.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\refint\3MetodosParametros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\3MetodosParametros.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\3MetodosParametros\obj\Debug\net7.0\ref\3MetodosParametros.dll
