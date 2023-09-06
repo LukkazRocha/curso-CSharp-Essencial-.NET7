@@ -11,9 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Estrutura_If_else_If", "3E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4Estrutura_switch_case", "4Estrutura_switch_case\4Estrutura_switch_case.csproj", "{E5F16572-6C18-4931-AC42-0113CF2B73BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticao_goto", "Repeticao_goto\Repeticao_goto.csproj", "{26AEA326-6B77-4398-B28A-86EFEDD653C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repeticao_goto", "Repeticao_goto\Repeticao_goto.csproj", "{26AEA326-6B77-4398-B28A-86EFEDD653C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticao_while", "Repeticao_while\Repeticao_while.csproj", "{716BC3D4-844A-4A90-9C1A-9BEBC808C8BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repeticao_while", "Repeticao_while\Repeticao_while.csproj", "{716BC3D4-844A-4A90-9C1A-9BEBC808C8BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8Repeticao_for", "8Repeticao_for\8Repeticao_for.csproj", "{359E8462-83BD-404F-A11B-8ABD9E28B868}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Repeticao_for", "9Repeticao_for\9Repeticao_for.csproj", "{5452EF7A-261C-414E-A99D-B9C20A19D708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Break_Continue", "9Break_Continue\9Break_Continue.csproj", "{93680A51-8372-4468-9A75-3C5F1D5DE326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{716BC3D4-844A-4A90-9C1A-9BEBC808C8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716BC3D4-844A-4A90-9C1A-9BEBC808C8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716BC3D4-844A-4A90-9C1A-9BEBC808C8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359E8462-83BD-404F-A11B-8ABD9E28B868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359E8462-83BD-404F-A11B-8ABD9E28B868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359E8462-83BD-404F-A11B-8ABD9E28B868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359E8462-83BD-404F-A11B-8ABD9E28B868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5452EF7A-261C-414E-A99D-B9C20A19D708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5452EF7A-261C-414E-A99D-B9C20A19D708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5452EF7A-261C-414E-A99D-B9C20A19D708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5452EF7A-261C-414E-A99D-B9C20A19D708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93680A51-8372-4468-9A75-3C5F1D5DE326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93680A51-8372-4468-9A75-3C5F1D5DE326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93680A51-8372-4468-9A75-3C5F1D5DE326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93680A51-8372-4468-9A75-3C5F1D5DE326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

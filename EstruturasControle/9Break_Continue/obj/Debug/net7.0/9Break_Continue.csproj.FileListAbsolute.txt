@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\bin\Debug\net7.0\9Break_Continue.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\bin\Debug\net7.0\9Break_Continue.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\bin\Debug\net7.0\9Break_Continue.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\bin\Debug\net7.0\9Break_Continue.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\bin\Debug\net7.0\9Break_Continue.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\refint\9Break_Continue.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\9Break_Continue.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\EstruturasControle\9Break_Continue\obj\Debug\net7.0\ref\9Break_Continue.dll
