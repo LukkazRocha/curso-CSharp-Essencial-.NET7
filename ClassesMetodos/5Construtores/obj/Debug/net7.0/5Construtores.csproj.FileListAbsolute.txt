@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\bin\Debug\net7.0\5Construtores.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\bin\Debug\net7.0\5Construtores.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\bin\Debug\net7.0\5Construtores.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\bin\Debug\net7.0\5Construtores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\bin\Debug\net7.0\5Construtores.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\refint\5Construtores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\5Construtores.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\5Construtores\obj\Debug\net7.0\ref\5Construtores.dll
