@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\refint\11PassandoArgumentosPorValor.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net7.0\ref\11PassandoArgumentosPorValor.dll

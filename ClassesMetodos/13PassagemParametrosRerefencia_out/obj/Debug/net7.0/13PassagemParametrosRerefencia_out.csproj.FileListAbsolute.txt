@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\bin\Debug\net7.0\13PassagemParametrosRerefencia_out.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\bin\Debug\net7.0\13PassagemParametrosRerefencia_out.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\bin\Debug\net7.0\13PassagemParametrosRerefencia_out.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\bin\Debug\net7.0\13PassagemParametrosRerefencia_out.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\bin\Debug\net7.0\13PassagemParametrosRerefencia_out.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\refint\13PassagemParametrosRerefencia_out.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\13PassagemParametrosRerefencia_out.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosRerefencia_out\obj\Debug\net7.0\ref\13PassagemParametrosRerefencia_out.dll

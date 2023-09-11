@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\refint\12PassandoArgumentosPorReferencia.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\ref\12PassandoArgumentosPorReferencia.dll
