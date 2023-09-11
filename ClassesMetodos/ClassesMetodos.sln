@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Construtores", "5Construto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6This", "6This\6This.csproj", "{41F5C71C-4294-48FB-BF27-99C960AB9419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosComRetorno", "MetodosComRetorno\MetodosComRetorno.csproj", "{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosComRetorno", "MetodosComRetorno\MetodosComRetorno.csproj", "{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7MetodosComRetorno2", "7MetodosComRetorno2\7MetodosComRetorno2.csproj", "{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8MetodosComRetorno", "8MetodosComRetorno\8MetodosComRetorno.csproj", "{341EA852-98B4-4ABA-AE31-FAC48126FD95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341EA852-98B4-4ABA-AE31-FAC48126FD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341EA852-98B4-4ABA-AE31-FAC48126FD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341EA852-98B4-4ABA-AE31-FAC48126FD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341EA852-98B4-4ABA-AE31-FAC48126FD95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
