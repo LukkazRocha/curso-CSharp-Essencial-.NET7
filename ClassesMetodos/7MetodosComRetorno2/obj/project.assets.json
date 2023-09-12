@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\7MetodosComRetorno2.csproj",
-      "projectName": "7MetodosComRetorno2",
-      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\7MetodosComRetorno2.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\07MetodosComRetorno2.csproj",
+      "projectName": "07MetodosComRetorno2",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\07MetodosComRetorno2.csproj",
       "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\obj\\",
       "projectStyle": "PackageReference",

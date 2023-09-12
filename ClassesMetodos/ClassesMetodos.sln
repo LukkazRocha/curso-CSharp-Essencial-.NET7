@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesMetodos", "ClassesMetodos\ClassesMetodos.csproj", "{F634BC32-1E2D-46ED-8CC8-D69ED4A1BBB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01ClassesMetodos", "ClassesMetodos\01ClassesMetodos.csproj", "{F634BC32-1E2D-46ED-8CC8-D69ED4A1BBB7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Metodos", "2Metodos\2Metodos.csproj", "{897C40D7-C2D2-422E-8870-99C197A8B51E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Metodos", "2Metodos\02Metodos.csproj", "{897C40D7-C2D2-422E-8870-99C197A8B51E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3MetodosParametros", "3MetodosParametros\3MetodosParametros.csproj", "{D074871F-706B-4709-B650-ACA7E585FE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03MetodosParametros", "3MetodosParametros\03MetodosParametros.csproj", "{D074871F-706B-4709-B650-ACA7E585FE3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4MetodosParametros", "4MetodosParametros\4MetodosParametros.csproj", "{D38950B7-9F77-4D86-BE51-AC322F0384C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04MetodosParametros", "4MetodosParametros\04MetodosParametros.csproj", "{D38950B7-9F77-4D86-BE51-AC322F0384C2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Construtores", "5Construtores\5Construtores.csproj", "{B6EC0E6B-7A76-4D90-A922-D971BE400492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Construtores", "5Construtores\05Construtores.csproj", "{B6EC0E6B-7A76-4D90-A922-D971BE400492}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6This", "6This\6This.csproj", "{41F5C71C-4294-48FB-BF27-99C960AB9419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06This", "6This\06This.csproj", "{41F5C71C-4294-48FB-BF27-99C960AB9419}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosComRetorno", "MetodosComRetorno\MetodosComRetorno.csproj", "{939ECC24-B752-4DE4-B34F-E816ED5FAEB1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7MetodosComRetorno2", "7MetodosComRetorno2\7MetodosComRetorno2.csproj", "{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07MetodosComRetorno2", "7MetodosComRetorno2\07MetodosComRetorno2.csproj", "{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8MetodosComRetorno", "8MetodosComRetorno\8MetodosComRetorno.csproj", "{341EA852-98B4-4ABA-AE31-FAC48126FD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08MetodosComRetorno", "8MetodosComRetorno\08MetodosComRetorno.csproj", "{341EA852-98B4-4ABA-AE31-FAC48126FD95}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11PassandoArgumentosPorValor", "11PassandoArgumentosPorValor\11PassandoArgumentosPorValor.csproj", "{63030E77-4FAE-4031-877C-4E69FC7421EF}"
 EndProject
@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12PassandoArgumentosPorRefe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13PassagemParametrosRerefencia_out", "13PassagemParametrosRerefencia_out\13PassagemParametrosRerefencia_out.csproj", "{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\9Metodos_ArgumentosNomeados.csproj", "{318FE1AA-3953-4175-A5B6-41C3150DD9D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\09Metodos_ArgumentosNomeados.csproj", "{318FE1AA-3953-4175-A5B6-41C3150DD9D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{C99B781F-39C5-4556-AD76-0499B68B9E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{C99B781F-39C5-4556-AD76-0499B68B9E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

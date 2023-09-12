@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
-      "projectName": "ClassesMetodos",
-      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\ClassesMetodos\\01ClassesMetodos.csproj",
+      "projectName": "01ClassesMetodos",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\ClassesMetodos\\01ClassesMetodos.csproj",
       "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\ClassesMetodos\\obj\\",
       "projectStyle": "PackageReference",

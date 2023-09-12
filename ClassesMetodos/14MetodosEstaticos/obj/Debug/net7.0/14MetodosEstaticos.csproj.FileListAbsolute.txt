@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\refint\14MetodosEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\14MetodosEstaticos\obj\Debug\net7.0\ref\14MetodosEstaticos.dll

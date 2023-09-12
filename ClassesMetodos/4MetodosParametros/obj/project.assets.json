@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\4MetodosParametros.csproj",
-      "projectName": "4MetodosParametros",
-      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\4MetodosParametros.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\04MetodosParametros.csproj",
+      "projectName": "04MetodosParametros",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\04MetodosParametros.csproj",
       "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\obj\\",
       "projectStyle": "PackageReference",

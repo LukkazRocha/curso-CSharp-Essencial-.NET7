@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\9Metodos_ArgumentosNomeados\\9Metodos_ArgumentosNomeados.csproj",
-      "projectName": "9Metodos_ArgumentosNomeados",
-      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\9Metodos_ArgumentosNomeados\\9Metodos_ArgumentosNomeados.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\9Metodos_ArgumentosNomeados\\09Metodos_ArgumentosNomeados.csproj",
+      "projectName": "09Metodos_ArgumentosNomeados",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\9Metodos_ArgumentosNomeados\\09Metodos_ArgumentosNomeados.csproj",
       "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\9Metodos_ArgumentosNomeados\\obj\\",
       "projectStyle": "PackageReference",
