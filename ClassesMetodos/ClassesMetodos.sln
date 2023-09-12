@@ -19,13 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosComRetorno", "Metodo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7MetodosComRetorno2", "7MetodosComRetorno2\7MetodosComRetorno2.csproj", "{F21B73BC-1F14-42ED-8EEF-651FA7EB39D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8MetodosComRetorno", "8MetodosComRetorno\8MetodosComRetorno.csproj", "{341EA852-98B4-4ABA-AE31-FAC48126FD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8MetodosComRetorno", "8MetodosComRetorno\8MetodosComRetorno.csproj", "{341EA852-98B4-4ABA-AE31-FAC48126FD95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11PassandoArgumentosPorValor", "11PassandoArgumentosPorValor\11PassandoArgumentosPorValor.csproj", "{63030E77-4FAE-4031-877C-4E69FC7421EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11PassandoArgumentosPorValor", "11PassandoArgumentosPorValor\11PassandoArgumentosPorValor.csproj", "{63030E77-4FAE-4031-877C-4E69FC7421EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12PassandoArgumentosPorReferencia", "12PassandoArgumentosPorReferencia\12PassandoArgumentosPorReferencia.csproj", "{E239BBD9-5FC4-46CD-9EC3-57325524B11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12PassandoArgumentosPorReferencia", "12PassandoArgumentosPorReferencia\12PassandoArgumentosPorReferencia.csproj", "{E239BBD9-5FC4-46CD-9EC3-57325524B11D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13PassagemParametrosRerefencia_out", "13PassagemParametrosRerefencia_out\13PassagemParametrosRerefencia_out.csproj", "{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13PassagemParametrosRerefencia_out", "13PassagemParametrosRerefencia_out\13PassagemParametrosRerefencia_out.csproj", "{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\9Metodos_ArgumentosNomeados.csproj", "{318FE1AA-3953-4175-A5B6-41C3150DD9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{C99B781F-39C5-4556-AD76-0499B68B9E4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318FE1AA-3953-4175-A5B6-41C3150DD9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318FE1AA-3953-4175-A5B6-41C3150DD9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318FE1AA-3953-4175-A5B6-41C3150DD9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318FE1AA-3953-4175-A5B6-41C3150DD9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99B781F-39C5-4556-AD76-0499B68B9E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

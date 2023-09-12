@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01ExercicioPratico", "01Exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02ExercicioPratico", "02ExercicioPratico\02ExercicioPratico.csproj", "{83789C8B-A939-407A-AC60-A7936B023BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ExercicioPratico", "03ExercicioPratico\03ExercicioPratico.csproj", "{C1659B8F-E26E-48E0-890E-2EC0C60E0CD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03ExercicioPratico", "03ExercicioPratico\03ExercicioPratico.csproj", "{C1659B8F-E26E-48E0-890E-2EC0C60E0CD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ExercicioPratico", "04ExercicioPratico\04ExercicioPratico.csproj", "{DF0C0931-4E83-4D6F-8B7A-827B99F11D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04ExercicioPratico", "04ExercicioPratico\04ExercicioPratico.csproj", "{DF0C0931-4E83-4D6F-8B7A-827B99F11D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ExercicioPratico", "05ExercicioPratico\05ExercicioPratico.csproj", "{389DA411-6076-48BE-A672-016ABC2E739C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DF0C0931-4E83-4D6F-8B7A-827B99F11D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0C0931-4E83-4D6F-8B7A-827B99F11D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0C0931-4E83-4D6F-8B7A-827B99F11D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389DA411-6076-48BE-A672-016ABC2E739C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389DA411-6076-48BE-A672-016ABC2E739C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389DA411-6076-48BE-A672-016ABC2E739C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389DA411-6076-48BE-A672-016ABC2E739C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

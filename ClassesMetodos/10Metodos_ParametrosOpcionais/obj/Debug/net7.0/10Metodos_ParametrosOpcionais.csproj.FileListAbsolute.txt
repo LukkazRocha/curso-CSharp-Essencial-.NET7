@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\refint\10Metodos_ParametrosOpcionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\ref\10Metodos_ParametrosOpcionais.dll
