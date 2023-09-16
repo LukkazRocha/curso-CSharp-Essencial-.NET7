@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14MetodosEstaticos", "14Met
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15CamposEstaticos", "15CamposEstaticos\15CamposEstaticos.csproj", "{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16ConstrutorEstatico", "16ConstrutorEstatico\16ConstrutorEstatico.csproj", "{56273F6B-15A6-40CE-8A8A-586107407C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16ConstrutorEstatico", "16ConstrutorEstatico\16ConstrutorEstatico.csproj", "{56273F6B-15A6-40CE-8A8A-586107407C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17Propriedades", "17Propriedades\17Propriedades.csproj", "{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17Propriedades", "17Propriedades\17Propriedades.csproj", "{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18Structs", "18Structs\18Structs.csproj", "{DDC91781-F449-4642-A109-64424F5F286D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC91781-F449-4642-A109-64424F5F286D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC91781-F449-4642-A109-64424F5F286D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC91781-F449-4642-A109-64424F5F286D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC91781-F449-4642-A109-64424F5F286D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

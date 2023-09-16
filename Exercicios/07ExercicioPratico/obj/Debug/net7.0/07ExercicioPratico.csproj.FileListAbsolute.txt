@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\bin\Debug\net7.0\07ExercicioPratico.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\bin\Debug\net7.0\07ExercicioPratico.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\bin\Debug\net7.0\07ExercicioPratico.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\bin\Debug\net7.0\07ExercicioPratico.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\bin\Debug\net7.0\07ExercicioPratico.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\refint\07ExercicioPratico.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\07ExercicioPratico.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Exercicios\07ExercicioPratico\obj\Debug\net7.0\ref\07ExercicioPratico.dll

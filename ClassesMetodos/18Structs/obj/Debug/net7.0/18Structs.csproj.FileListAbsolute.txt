@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\bin\Debug\net7.0\18Structs.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\bin\Debug\net7.0\18Structs.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\bin\Debug\net7.0\18Structs.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\bin\Debug\net7.0\18Structs.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\bin\Debug\net7.0\18Structs.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\refint\18Structs.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\18Structs.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\18Structs\obj\Debug\net7.0\ref\18Structs.dll
