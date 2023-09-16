@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\refint\15CamposEstaticos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\15CamposEstaticos\obj\Debug\net7.0\ref\15CamposEstaticos.dll

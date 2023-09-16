@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\13PassagemParametrosRerefencia_out\\13PassagemParametrosRerefencia_out.csproj",
-      "projectName": "13PassagemParametrosRerefencia_out",
-      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\13PassagemParametrosRerefencia_out\\13PassagemParametrosRerefencia_out.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\13PassagemParametrosRerefencia_out\\13PassagemParametrosReferencia_out.csproj",
+      "projectName": "13PassagemParametrosReferencia_out",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\13PassagemParametrosRerefencia_out\\13PassagemParametrosReferencia_out.csproj",
       "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ClassesMetodos\\13PassagemParametrosRerefencia_out\\obj\\",
       "projectStyle": "PackageReference",
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

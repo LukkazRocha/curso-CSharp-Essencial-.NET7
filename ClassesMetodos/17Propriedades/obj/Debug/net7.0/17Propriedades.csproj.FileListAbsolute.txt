@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\bin\Debug\net7.0\17Propriedades.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\bin\Debug\net7.0\17Propriedades.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\bin\Debug\net7.0\17Propriedades.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\bin\Debug\net7.0\17Propriedades.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\bin\Debug\net7.0\17Propriedades.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\refint\17Propriedades.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\17Propriedades.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\17Propriedades\obj\Debug\net7.0\ref\17Propriedades.dll

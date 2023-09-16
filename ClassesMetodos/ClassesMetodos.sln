@@ -25,13 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11PassandoArgumentosPorValo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12PassandoArgumentosPorReferencia", "12PassandoArgumentosPorReferencia\12PassandoArgumentosPorReferencia.csproj", "{E239BBD9-5FC4-46CD-9EC3-57325524B11D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13PassagemParametrosRerefencia_out", "13PassagemParametrosRerefencia_out\13PassagemParametrosRerefencia_out.csproj", "{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13PassagemParametrosReferencia_out", "13PassagemParametrosRerefencia_out\13PassagemParametrosReferencia_out.csproj", "{B6DAF80B-FE3F-42CC-AB32-D432E3E35846}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\09Metodos_ArgumentosNomeados.csproj", "{318FE1AA-3953-4175-A5B6-41C3150DD9D9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{C99B781F-39C5-4556-AD76-0499B68B9E4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15CamposEstaticos", "15CamposEstaticos\15CamposEstaticos.csproj", "{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16ConstrutorEstatico", "16ConstrutorEstatico\16ConstrutorEstatico.csproj", "{56273F6B-15A6-40CE-8A8A-586107407C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17Propriedades", "17Propriedades\17Propriedades.csproj", "{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D288C3AF-C8FF-4DF4-A895-CC25A5C964FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F8304F-E0CC-48EF-8FB8-C203EF67F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56273F6B-15A6-40CE-8A8A-586107407C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56273F6B-15A6-40CE-8A8A-586107407C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56273F6B-15A6-40CE-8A8A-586107407C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56273F6B-15A6-40CE-8A8A-586107407C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E0AEA2-4A4B-4988-BC92-E0442DA086D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
