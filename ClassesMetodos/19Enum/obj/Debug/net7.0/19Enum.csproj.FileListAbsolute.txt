@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\bin\Debug\net7.0\19Enum.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\bin\Debug\net7.0\19Enum.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\bin\Debug\net7.0\19Enum.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\bin\Debug\net7.0\19Enum.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\bin\Debug\net7.0\19Enum.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\refint\19Enum.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\19Enum.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\19Enum\obj\Debug\net7.0\ref\19Enum.dll
