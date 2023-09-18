@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\bin\Debug\net7.0\22PartialClass.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\bin\Debug\net7.0\22PartialClass.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\bin\Debug\net7.0\22PartialClass.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\bin\Debug\net7.0\22PartialClass.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\bin\Debug\net7.0\22PartialClass.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\refint\22PartialClass.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\22PartialClass.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\22PartialClass\obj\Debug\net7.0\ref\22PartialClass.dll

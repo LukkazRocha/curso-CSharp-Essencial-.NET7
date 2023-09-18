@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\refint\20TratamentoErros.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\20TratamentoErros\obj\Debug\net7.0\ref\20TratamentoErros.dll

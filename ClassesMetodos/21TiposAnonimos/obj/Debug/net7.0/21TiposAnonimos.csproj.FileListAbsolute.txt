@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\bin\Debug\net7.0\21TiposAnonimos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\bin\Debug\net7.0\21TiposAnonimos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\bin\Debug\net7.0\21TiposAnonimos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\bin\Debug\net7.0\21TiposAnonimos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\bin\Debug\net7.0\21TiposAnonimos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\refint\21TiposAnonimos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\21TiposAnonimos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ClassesMetodos\21TiposAnonimos\obj\Debug\net7.0\ref\21TiposAnonimos.dll
