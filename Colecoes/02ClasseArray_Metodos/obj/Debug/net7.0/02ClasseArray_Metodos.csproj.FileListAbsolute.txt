@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\bin\Debug\net7.0\02ClasseArray_Metodos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\bin\Debug\net7.0\02ClasseArray_Metodos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\bin\Debug\net7.0\02ClasseArray_Metodos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\bin\Debug\net7.0\02ClasseArray_Metodos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\bin\Debug\net7.0\02ClasseArray_Metodos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\refint\02ClasseArray_Metodos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\02ClasseArray_Metodos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\02ClasseArray_Metodos\obj\Debug\net7.0\ref\02ClasseArray_Metodos.dll
