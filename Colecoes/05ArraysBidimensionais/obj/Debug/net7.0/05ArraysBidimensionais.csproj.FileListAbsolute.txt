@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\bin\Debug\net7.0\05ArraysBidimensionais.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\bin\Debug\net7.0\05ArraysBidimensionais.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\bin\Debug\net7.0\05ArraysBidimensionais.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\bin\Debug\net7.0\05ArraysBidimensionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\bin\Debug\net7.0\05ArraysBidimensionais.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\refint\05ArraysBidimensionais.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\05ArraysBidimensionais.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\05ArraysBidimensionais\obj\Debug\net7.0\ref\05ArraysBidimensionais.dll

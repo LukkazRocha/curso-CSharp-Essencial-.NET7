@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\bin\Debug\net7.0\04Modificador_Params.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\bin\Debug\net7.0\04Modificador_Params.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\bin\Debug\net7.0\04Modificador_Params.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\bin\Debug\net7.0\04Modificador_Params.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\bin\Debug\net7.0\04Modificador_Params.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\refint\04Modificador_Params.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\04Modificador_Params.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\04Modificador_Params\obj\Debug\net7.0\ref\04Modificador_Params.dll
