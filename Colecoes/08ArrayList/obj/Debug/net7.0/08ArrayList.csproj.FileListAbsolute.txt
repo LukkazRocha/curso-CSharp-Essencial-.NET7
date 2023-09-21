@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\bin\Debug\net7.0\08ArrayList.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\bin\Debug\net7.0\08ArrayList.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\bin\Debug\net7.0\08ArrayList.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\bin\Debug\net7.0\08ArrayList.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\bin\Debug\net7.0\08ArrayList.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\refint\08ArrayList.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\08ArrayList.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\08ArrayList\obj\Debug\net7.0\ref\08ArrayList.dll
