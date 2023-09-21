@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\bin\Debug\net7.0\09List.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\bin\Debug\net7.0\09List.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\bin\Debug\net7.0\09List.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\bin\Debug\net7.0\09List.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\bin\Debug\net7.0\09List.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\refint\09List.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\09List.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\09List\obj\Debug\net7.0\ref\09List.dll
