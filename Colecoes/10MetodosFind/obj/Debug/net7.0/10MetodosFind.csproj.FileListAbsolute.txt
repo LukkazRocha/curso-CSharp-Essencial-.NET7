@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\bin\Debug\net7.0\10MetodosFind.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\bin\Debug\net7.0\10MetodosFind.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\bin\Debug\net7.0\10MetodosFind.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\bin\Debug\net7.0\10MetodosFind.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\bin\Debug\net7.0\10MetodosFind.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\refint\10MetodosFind.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\10MetodosFind.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\10MetodosFind\obj\Debug\net7.0\ref\10MetodosFind.dll
