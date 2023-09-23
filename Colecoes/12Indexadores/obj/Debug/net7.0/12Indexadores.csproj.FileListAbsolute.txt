@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\bin\Debug\net7.0\12Indexadores.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\bin\Debug\net7.0\12Indexadores.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\bin\Debug\net7.0\12Indexadores.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\bin\Debug\net7.0\12Indexadores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\bin\Debug\net7.0\12Indexadores.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\refint\12Indexadores.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\12Indexadores.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12Indexadores\obj\Debug\net7.0\ref\12Indexadores.dll

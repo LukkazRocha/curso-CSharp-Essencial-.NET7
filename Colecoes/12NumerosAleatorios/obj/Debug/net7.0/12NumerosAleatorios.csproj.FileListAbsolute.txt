@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\refint\12NumerosAleatorios.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\ref\12NumerosAleatorios.dll
