@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\bin\Debug\net7.0\11List_Exercicio.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\bin\Debug\net7.0\11List_Exercicio.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\bin\Debug\net7.0\11List_Exercicio.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\bin\Debug\net7.0\11List_Exercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\bin\Debug\net7.0\11List_Exercicio.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\refint\11List_Exercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\11List_Exercicio.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Colecoes\11Exercicio\obj\Debug\net7.0\ref\11List_Exercicio.dll
