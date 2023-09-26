@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\bin\Debug\net7.0\10Heranca_UpcastingDowncasting.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\bin\Debug\net7.0\10Heranca_UpcastingDowncasting.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\bin\Debug\net7.0\10Heranca_UpcastingDowncasting.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\bin\Debug\net7.0\10Heranca_UpcastingDowncasting.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\bin\Debug\net7.0\10Heranca_UpcastingDowncasting.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\refint\10Heranca_UpcastingDowncasting.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\10Heranca_UpcastingDowncasting.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\10Heranca_UpcastingDowncasting\obj\Debug\net7.0\ref\10Heranca_UpcastingDowncasting.dll

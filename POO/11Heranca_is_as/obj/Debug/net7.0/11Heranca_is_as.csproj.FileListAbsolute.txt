@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\bin\Debug\net7.0\11Heranca_is_as.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\bin\Debug\net7.0\11Heranca_is_as.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\bin\Debug\net7.0\11Heranca_is_as.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\bin\Debug\net7.0\11Heranca_is_as.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\bin\Debug\net7.0\11Heranca_is_as.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\refint\11Heranca_is_as.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\11Heranca_is_as.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\11Heranca_is_as\obj\Debug\net7.0\ref\11Heranca_is_as.dll
