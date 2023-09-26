@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\bin\Debug\net7.0\06Heranca_VirtualOverride.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\bin\Debug\net7.0\06Heranca_VirtualOverride.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\bin\Debug\net7.0\06Heranca_VirtualOverride.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\bin\Debug\net7.0\06Heranca_VirtualOverride.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\bin\Debug\net7.0\06Heranca_VirtualOverride.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\refint\06Heranca_VirtualOverride.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\06Heranca_VirtualOverride.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\06Heranca_VirtualOverride\obj\Debug\net7.0\ref\06Heranca_VirtualOverride.dll
