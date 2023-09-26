@@ -4,24 +4,25 @@
     {
         public int Numero { get; set; }
         public string? Titular { get; set; }
-        public decimal Saldo { get; set; } = 0.0m;
-        public virtual double Juros { get; set; } = 0.0;
+        public decimal Saldo { get; set; } = 0.00m;
+        public virtual double Juros { get; set; } = 0.00;
 
-        public decimal Depositar(decimal valor)
+        private decimal CalculaRemuneracao(double juros)
         {
-            Saldo += valor;
-            return Saldo;
+            return Saldo * (decimal)juros;
         }
 
-        public decimal Sacar(decimal valor)
+        public virtual decimal Sacar(decimal valor)
         {
             Saldo -= valor;
             return Saldo;
         }
 
-        public void ExibirSaldo()
+        public decimal Depositar(decimal valor)
         {
-            Console.WriteLine($"Saldo: {Saldo:c}");
+            Saldo += valor;
+            Saldo += CalculaRemuneracao(Juros);
+            return Saldo;
         }
     }
 }
