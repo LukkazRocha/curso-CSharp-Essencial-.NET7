@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\bin\Debug\net7.0\16Acoplamento.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\bin\Debug\net7.0\16Acoplamento.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\bin\Debug\net7.0\16Acoplamento.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\bin\Debug\net7.0\16Acoplamento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\bin\Debug\net7.0\16Acoplamento.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\refint\16Acoplamento.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\16Acoplamento.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\POO\16Acoplamento\obj\Debug\net7.0\ref\16Acoplamento.dll
