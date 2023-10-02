@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\bin\Debug\net7.0\02Generics.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\bin\Debug\net7.0\02Generics.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\bin\Debug\net7.0\02Generics.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\bin\Debug\net7.0\02Generics.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\bin\Debug\net7.0\02Generics.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\refint\02Generics.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\02Generics.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\02Generics\obj\Debug\net7.0\ref\02Generics.dll

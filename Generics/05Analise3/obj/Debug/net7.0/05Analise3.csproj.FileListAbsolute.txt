@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\bin\Debug\net7.0\05Analise3.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\bin\Debug\net7.0\05Analise3.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\bin\Debug\net7.0\05Analise3.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\bin\Debug\net7.0\05Analise3.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\bin\Debug\net7.0\05Analise3.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\refint\05Analise3.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\05Analise3.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\Generics\05Analise3\obj\Debug\net7.0\ref\05Analise3.dll
