@@ -5,15 +5,17 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Generics", "01Generics\01Generics.csproj", "{12DE8A5E-D4B6-466E-8525-F40A282AF4B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Generics", "02Generics\02Generics.csproj", "{C2E8FBAF-A415-43D1-B8FF-4EFD653FD880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Generics", "02Generics\02Generics.csproj", "{C2E8FBAF-A415-43D1-B8FF-4EFD653FD880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Analise1", "03Analise1\03Analise1.csproj", "{62BBD116-B35B-48E4-9BDF-1507ED0FA6CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Analise1", "03Analise1\03Analise1.csproj", "{62BBD116-B35B-48E4-9BDF-1507ED0FA6CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Analise2", "04Analise2\04Analise2.csproj", "{ED143D31-421E-4BC1-B81A-91216033FDC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Analise2", "04Analise2\04Analise2.csproj", "{ED143D31-421E-4BC1-B81A-91216033FDC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Analise3", "05Analise3\05Analise3.csproj", "{9C12C995-91B2-4723-8C13-F62AB3D0CE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Analise3", "05Analise3\05Analise3.csproj", "{9C12C995-91B2-4723-8C13-F62AB3D0CE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06GetHashCode_Equals1", "06GetHashCode_Equals\06GetHashCode_Equals1.csproj", "{6102460D-373A-4ABB-8680-3938024BF2F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06GetHashCode_Equals1", "06GetHashCode_Equals\06GetHashCode_Equals1.csproj", "{6102460D-373A-4ABB-8680-3938024BF2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Dictionary", "07Dictionary\07Dictionary.csproj", "{8308EB46-B01F-4A14-8D49-B483C62BAB7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6102460D-373A-4ABB-8680-3938024BF2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6102460D-373A-4ABB-8680-3938024BF2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6102460D-373A-4ABB-8680-3938024BF2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8308EB46-B01F-4A14-8D49-B483C62BAB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8308EB46-B01F-4A14-8D49-B483C62BAB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8308EB46-B01F-4A14-8D49-B483C62BAB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8308EB46-B01F-4A14-8D49-B483C62BAB7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

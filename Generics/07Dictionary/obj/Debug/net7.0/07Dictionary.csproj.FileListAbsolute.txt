@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\bin\Debug\net7.0\07Dictionary.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\bin\Debug\net7.0\07Dictionary.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\bin\Debug\net7.0\07Dictionary.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\bin\Debug\net7.0\07Dictionary.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\bin\Debug\net7.0\07Dictionary.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\refint\07Dictionary.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\07Dictionary.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\07Dictionary\obj\Debug\net7.0\ref\07Dictionary.dll
