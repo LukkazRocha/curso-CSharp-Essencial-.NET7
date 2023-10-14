@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yB5QJ41dlvXgK2AJEWrRzbQMew7Qu3Q9xL9wHPE6mYskNxvmc71TX5Qo6JVWTNce6QPt1eDlnGyAzA+mx9ufNQ==",
+  "dgSpecHash": "LHY14nMGFsqktB9+q6SHXVLRWiFCOV/5ucjX5TfY15tUDHVYXmQGBfty7hnY6tS98DALuVKYEUeWoNIZeurZ+A==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

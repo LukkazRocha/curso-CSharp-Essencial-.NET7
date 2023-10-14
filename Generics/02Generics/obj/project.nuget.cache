@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNwkUdR6A1UtrWMZeJq4TCfo4DR3nkwpalsHFlNKL72oacjUY0sl05rh2wpERu1wdzmqo4g/2GfmWjjzF/fG6g==",
+  "dgSpecHash": "h8xlKS3s6RNDNeWjupURVWO4pxdkcnypPgSwNu88ZHds/wO13nkTx4rxaFMQM/qbiw/vAJYf2IGxCGK7amXKew==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\02Generics\\02Generics.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\02Generics\\02Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,23 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\devze\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Lukka\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\03Analise1.csproj",
+      "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\03Analise1.csproj",
       "projectName": "03Analise1",
-      "projectPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\03Analise1.csproj",
-      "packagesPath": "C:\\Users\\devze\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\obj\\",
+      "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\03Analise1.csproj",
+      "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\03Analise1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\devze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
