@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07Dictionary", "07Dictionar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08Dictionary_Exercicio", "08Dictionary_Exercicio\08Dictionary_Exercicio.csproj", "{38466213-8C6A-4B61-A173-4DC63109F80B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09SortedDictionary", "09SortedDictionary\09SortedDictionary.csproj", "{C5A79536-B96B-411D-BB25-CDF1A24F69EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09SortedDictionary", "09SortedDictionary\09SortedDictionary.csproj", "{C5A79536-B96B-411D-BB25-CDF1A24F69EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10HashSet", "10HashSet\10HashSet.csproj", "{D82166CD-5E91-44A7-8392-EC963A0A218C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10HashSet", "10HashSet\10HashSet.csproj", "{D82166CD-5E91-44A7-8392-EC963A0A218C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11SortedSet", "11SortedSet\11SortedSet.csproj", "{3691C91E-4409-4855-9ECA-A7B9F6BD9807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D82166CD-5E91-44A7-8392-EC963A0A218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82166CD-5E91-44A7-8392-EC963A0A218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82166CD-5E91-44A7-8392-EC963A0A218C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

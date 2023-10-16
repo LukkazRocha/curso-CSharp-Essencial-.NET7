@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\bin\Debug\net7.0\11SortedSet.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\bin\Debug\net7.0\11SortedSet.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\bin\Debug\net7.0\11SortedSet.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\bin\Debug\net7.0\11SortedSet.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\bin\Debug\net7.0\11SortedSet.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\refint\11SortedSet.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\11SortedSet.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\11SortedSet\obj\Debug\net7.0\ref\11SortedSet.dll

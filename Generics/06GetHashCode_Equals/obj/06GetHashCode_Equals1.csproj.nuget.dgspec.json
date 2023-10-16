@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj": {}
+    "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj": {
+    "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
+        "projectUniqueName": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
         "projectName": "06GetHashCode_Equals1",
-        "projectPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
-        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\obj\\",
+        "projectPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\06GetHashCode_Equals1.csproj",
+        "packagesPath": "C:\\Users\\devze\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\Generics\\06GetHashCode_Equals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devze\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
