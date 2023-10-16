@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\bin\Debug\net7.0\12Stack.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\bin\Debug\net7.0\12Stack.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\bin\Debug\net7.0\12Stack.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\bin\Debug\net7.0\12Stack.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\bin\Debug\net7.0\12Stack.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\refint\12Stack.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\12Stack.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\12Stack\obj\Debug\net7.0\ref\12Stack.dll

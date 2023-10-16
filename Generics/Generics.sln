@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10HashSet", "10HashSet\10Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11SortedSet", "11SortedSet\11SortedSet.csproj", "{3691C91E-4409-4855-9ECA-A7B9F6BD9807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Stack", "12Stack\12Stack.csproj", "{414CE6B7-196D-4117-B77F-01072F69C911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3691C91E-4409-4855-9ECA-A7B9F6BD9807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414CE6B7-196D-4117-B77F-01072F69C911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414CE6B7-196D-4117-B77F-01072F69C911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414CE6B7-196D-4117-B77F-01072F69C911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414CE6B7-196D-4117-B77F-01072F69C911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
