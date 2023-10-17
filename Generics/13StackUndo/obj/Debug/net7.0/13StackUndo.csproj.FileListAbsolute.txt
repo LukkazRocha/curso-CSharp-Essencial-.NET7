@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\bin\Debug\net7.0\13StackUndo.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\bin\Debug\net7.0\13StackUndo.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\bin\Debug\net7.0\13StackUndo.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\bin\Debug\net7.0\13StackUndo.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\bin\Debug\net7.0\13StackUndo.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\refint\13StackUndo.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\13StackUndo.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\13StackUndo\obj\Debug\net7.0\ref\13StackUndo.dll

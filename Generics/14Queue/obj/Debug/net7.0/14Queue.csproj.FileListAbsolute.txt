@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\bin\Debug\net7.0\14Queue.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\bin\Debug\net7.0\14Queue.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\bin\Debug\net7.0\14Queue.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\bin\Debug\net7.0\14Queue.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\bin\Debug\net7.0\14Queue.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\refint\14Queue.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\14Queue.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\14Queue\obj\Debug\net7.0\ref\14Queue.dll
