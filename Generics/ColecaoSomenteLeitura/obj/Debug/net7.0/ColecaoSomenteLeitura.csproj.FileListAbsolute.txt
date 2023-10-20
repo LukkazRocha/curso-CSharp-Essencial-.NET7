@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\bin\Debug\net7.0\ColecaoSomenteLeitura.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\bin\Debug\net7.0\ColecaoSomenteLeitura.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\bin\Debug\net7.0\ColecaoSomenteLeitura.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\bin\Debug\net7.0\ColecaoSomenteLeitura.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\bin\Debug\net7.0\ColecaoSomenteLeitura.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\refint\ColecaoSomenteLeitura.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ColecaoSomenteLeitura.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\Generics\ColecaoSomenteLeitura\obj\Debug\net7.0\ref\ColecaoSomenteLeitura.dll
