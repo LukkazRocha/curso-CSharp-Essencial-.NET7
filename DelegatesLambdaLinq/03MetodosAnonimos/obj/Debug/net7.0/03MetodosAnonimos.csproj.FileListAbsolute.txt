@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\bin\Debug\net7.0\03MetodosAnonimos.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\bin\Debug\net7.0\03MetodosAnonimos.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\bin\Debug\net7.0\03MetodosAnonimos.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\bin\Debug\net7.0\03MetodosAnonimos.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\bin\Debug\net7.0\03MetodosAnonimos.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\refint\03MetodosAnonimos.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\03MetodosAnonimos.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\03MetodosAnonimos\obj\Debug\net7.0\ref\03MetodosAnonimos.dll

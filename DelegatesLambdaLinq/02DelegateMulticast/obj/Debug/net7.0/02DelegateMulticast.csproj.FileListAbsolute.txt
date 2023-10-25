@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\refint\02DelegateMulticast.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\02DelegateMulticast\obj\Debug\net7.0\ref\02DelegateMulticast.dll
