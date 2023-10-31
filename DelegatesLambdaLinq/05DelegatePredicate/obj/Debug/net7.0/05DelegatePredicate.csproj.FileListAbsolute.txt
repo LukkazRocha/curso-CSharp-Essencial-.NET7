@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\bin\Debug\net7.0\05DelegatePredicate.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\bin\Debug\net7.0\05DelegatePredicate.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\bin\Debug\net7.0\05DelegatePredicate.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\bin\Debug\net7.0\05DelegatePredicate.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\bin\Debug\net7.0\05DelegatePredicate.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\refint\05DelegatePredicate.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\05DelegatePredicate.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\05DelegatePredicate\obj\Debug\net7.0\ref\05DelegatePredicate.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uidvpmiPvd+Txk1Uj2Bcev9eZvzDyBaVDqp+cQVJ3szgKWL4PPqi/bEiwfUIIcseJ/o0hyBk/hhl57C7kH2SsA==",
+  "dgSpecHash": "Dsaz0aSFfwHqcd1xrQytYuH/ih1YsF3vhKLp3gymlcq0rhZ3qvMz++V53WrfwZ1GDmse4zCH7wvnnnrcki5Egg==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\02DelegateMulticast\\02DelegateMulticast.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\02DelegateMulticast\\02DelegateMulticast.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
