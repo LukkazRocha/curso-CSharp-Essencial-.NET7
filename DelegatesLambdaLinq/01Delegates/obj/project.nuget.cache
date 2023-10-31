@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GYYYwp4j+yrbsEBtY3plJWze3W8/l9v2P8xoBSYQotP5luw27e0IPhz33ddKVqmEG+XNrDPRlyqNKL3dHOPFw==",
+  "dgSpecHash": "oDpoGdYwvw9dXJzYLveFONwS7HG72k9M/Y7BoleXZCAZ6fhJ3wE6WXPXfliAThb2KNH5tV8oZs9FKAysruOEvg==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\01Delegates\\01Delegates.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\01Delegates\\01Delegates.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

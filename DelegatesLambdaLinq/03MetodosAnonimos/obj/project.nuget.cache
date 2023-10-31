@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FX0APmyFlgWHX62vQ8TzoC7YA602In05brYmKi2F/fa3aAWzvE9hfz0tg2o5XdQ1A6QKiue9TTkerGP7gIdv8w==",
+  "dgSpecHash": "X/eU6VIcTM4Q1GAJVJ/vf1NeM3rXFf77SH8ueTi/owRn/fSxNUmv/ZkhuoBjHSsy4khifDgJRZ1SMTn7PtJKjA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\03MetodosAnonimos\\03MetodosAnonimos.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\03MetodosAnonimos\\03MetodosAnonimos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
