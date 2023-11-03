@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\bin\Debug\net7.0\07DelegateFunc.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\bin\Debug\net7.0\07DelegateFunc.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\bin\Debug\net7.0\07DelegateFunc.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\bin\Debug\net7.0\07DelegateFunc.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\bin\Debug\net7.0\07DelegateFunc.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\refint\07DelegateFunc.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\07DelegateFunc.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\07DelegateFunc\obj\Debug\net7.0\ref\07DelegateFunc.dll
