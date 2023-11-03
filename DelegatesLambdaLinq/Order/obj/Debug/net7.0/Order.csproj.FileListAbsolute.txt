@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\bin\Debug\net7.0\Order.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\bin\Debug\net7.0\Order.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\bin\Debug\net7.0\Order.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\bin\Debug\net7.0\Order.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\bin\Debug\net7.0\Order.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\refint\Order.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\Order.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\Order\obj\Debug\net7.0\ref\Order.dll
