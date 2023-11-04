@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\bin\Debug\net7.0\08DelegatesExercicio.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\bin\Debug\net7.0\08DelegatesExercicio.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\bin\Debug\net7.0\08DelegatesExercicio.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\bin\Debug\net7.0\08DelegatesExercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\bin\Debug\net7.0\08DelegatesExercicio.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\refint\08DelegatesExercicio.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\08DelegatesExercicio.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\08DelegatesExercicio\obj\Debug\net7.0\ref\08DelegatesExercicio.dll

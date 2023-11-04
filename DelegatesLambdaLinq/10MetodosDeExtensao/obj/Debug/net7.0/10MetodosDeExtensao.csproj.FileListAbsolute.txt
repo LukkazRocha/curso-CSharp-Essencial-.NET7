@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\bin\Debug\net7.0\10MetodosDeExtensao.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\bin\Debug\net7.0\10MetodosDeExtensao.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\bin\Debug\net7.0\10MetodosDeExtensao.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\bin\Debug\net7.0\10MetodosDeExtensao.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\bin\Debug\net7.0\10MetodosDeExtensao.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\refint\10MetodosDeExtensao.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\10MetodosDeExtensao.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\10MetodosDeExtensao\obj\Debug\net7.0\ref\10MetodosDeExtensao.dll

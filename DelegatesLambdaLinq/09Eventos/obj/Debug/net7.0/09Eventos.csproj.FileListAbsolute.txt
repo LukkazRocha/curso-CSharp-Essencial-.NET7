@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\bin\Debug\net7.0\09Eventos.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\bin\Debug\net7.0\09Eventos.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\bin\Debug\net7.0\09Eventos.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\bin\Debug\net7.0\09Eventos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\bin\Debug\net7.0\09Eventos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\refint\09Eventos.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\09Eventos.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\09Eventos\obj\Debug\net7.0\ref\09Eventos.dll
