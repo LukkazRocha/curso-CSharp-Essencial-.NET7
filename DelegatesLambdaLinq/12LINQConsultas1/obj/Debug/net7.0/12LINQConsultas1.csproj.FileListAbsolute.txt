@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\refint\12LINQConsultas1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\ref\12LINQConsultas1.dll

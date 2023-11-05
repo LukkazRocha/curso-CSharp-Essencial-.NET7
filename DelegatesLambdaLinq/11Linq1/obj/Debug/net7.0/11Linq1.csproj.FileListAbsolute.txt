@@ -1,0 +1,14 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\bin\Debug\net7.0\11Linq1.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\bin\Debug\net7.0\11Linq1.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\bin\Debug\net7.0\11Linq1.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\bin\Debug\net7.0\11Linq1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\bin\Debug\net7.0\11Linq1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\refint\11Linq1.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\11Linq1.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\11Linq1\obj\Debug\net7.0\ref\11Linq1.dll
