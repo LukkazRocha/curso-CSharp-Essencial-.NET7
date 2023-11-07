@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kHGBojYWBLt+85VSzFpFuqBzKpS5S4YJ6SRShWsow2D9v0nWlOAxfEO39sLZhRiSN5YUiCF49oqEPVPT7Pc6Q==",
+  "dgSpecHash": "6rSEHYOo3/UVdRa6Nf1ydW1CjytRdkcg6LxJtSO2KUAR5CZ5qSRGg3hxGgeoD0gqOhJ7753L7mjdttVr+2ilXg==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\10MetodosDeExtensao\\10MetodosDeExtensao.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\10MetodosDeExtensao\\10MetodosDeExtensao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

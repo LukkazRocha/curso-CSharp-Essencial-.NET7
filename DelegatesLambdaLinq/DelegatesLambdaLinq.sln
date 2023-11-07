@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09Eventos", "09Eventos\09Ev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10MetodosDeExtensao", "10MetodosDeExtensao\10MetodosDeExtensao.csproj", "{F67E1C97-4EBC-4304-93C1-20DEF66A88AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Linq1", "11Linq1\11Linq1.csproj", "{07E69822-DB4D-4D43-83E5-FB6F04330996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11Linq1", "11Linq1\11Linq1.csproj", "{07E69822-DB4D-4D43-83E5-FB6F04330996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12LINQConsultas1", "12LINQConsultas1\12LINQConsultas1.csproj", "{186183EF-A1F5-4693-9F02-67A68F6254BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12LINQConsultas1", "12LINQConsultas1\12LINQConsultas1.csproj", "{186183EF-A1F5-4693-9F02-67A68F6254BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13LINQConsultas2", "13LINQConsultas2\13LINQConsultas2.csproj", "{61BB9805-81EA-432F-A0E8-68853E108A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{186183EF-A1F5-4693-9F02-67A68F6254BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{186183EF-A1F5-4693-9F02-67A68F6254BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{186183EF-A1F5-4693-9F02-67A68F6254BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BB9805-81EA-432F-A0E8-68853E108A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BB9805-81EA-432F-A0E8-68853E108A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BB9805-81EA-432F-A0E8-68853E108A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BB9805-81EA-432F-A0E8-68853E108A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

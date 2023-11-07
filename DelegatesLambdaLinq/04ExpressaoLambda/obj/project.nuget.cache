@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZaMSOCJVgm8cQIpB+5ZZOTImQU+WkNQA3wrHuXlc5z9afYuGdm9KCNLcPGB/MWYajwl6XScm9tDlxDcfnbrYA==",
+  "dgSpecHash": "UyGQ00NFhECWiaSt74qYQOIwMC2UuQbyHM6NrcuHn/BZvv7CnQa875zAd5i89EQW+pr96pN2v29IDrRs53o1aA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
