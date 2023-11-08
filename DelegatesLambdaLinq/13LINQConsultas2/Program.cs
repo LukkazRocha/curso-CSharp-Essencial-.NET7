@@ -45,4 +45,44 @@ catch (Exception ex)
     Console.WriteLine(ex.Message);
 }
 
+Console.WriteLine("\n-LastOrDefault - Localiza o último elemento usando um critério de nome");
+var ultimaOcorrencia2 = listaProdutos.LastOrDefault(p => p.Nome == "Cadeira");
+if (ultimaOcorrencia2 != null)
+{
+    Console.WriteLine($"{ultimaOcorrencia2.Nome} \t{ultimaOcorrencia2.Preco:C2}");
+}
+else
+{
+    Console.WriteLine("## Nenhum elemento foi encontrado segundo o critério ##");
+}
+
+Console.WriteLine("\n-Single - Localiza o único elemento usando um critério de nome");
+try
+{
+    var unicoProduto = listaProdutos.Single(p => p.Nome == "Cadeira");
+    Console.WriteLine($"{unicoProduto.Nome} \t{unicoProduto.Preco:C2}");
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
+Console.WriteLine("\n-SingleOrDefault - Localiza o único elemento usando um critério de nome");
+try
+{
+    var unicaOcorrencia2 = listaProdutos.SingleOrDefault(p => p.Nome == "Cadeira ");
+    if (unicaOcorrencia2 != null)
+    {
+        Console.WriteLine($"{unicaOcorrencia2.Nome} \t{unicaOcorrencia2.Preco:C2}");
+    }
+    else
+    {
+        Console.WriteLine("## Nenhum elemento foi encontrado segundo o critério ##");
+    }
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
 Console.ReadKey();

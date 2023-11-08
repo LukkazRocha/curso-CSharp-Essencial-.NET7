@@ -1,4 +1,4 @@
-﻿namespace _12LINQConsultas2
+﻿namespace _13LINQConsultas2
 {
     public class Produto
     {

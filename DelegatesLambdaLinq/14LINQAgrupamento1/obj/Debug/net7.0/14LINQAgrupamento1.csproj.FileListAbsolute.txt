@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\refint\14LINQAgrupamento1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\DelegatesLambdaLinq\14LINQAgrupamento1\obj\Debug\net7.0\ref\14LINQAgrupamento1.dll
