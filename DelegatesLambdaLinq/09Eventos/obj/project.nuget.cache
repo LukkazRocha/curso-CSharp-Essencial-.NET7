@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bJqFOXJqIhn0oyWkbWtuaDCUbEhZpm9NpwZVbiPjXY/YO1fwH9q4VIwDRcUZs7sH9lQJ3Quf9FYEbSM0A07FA==",
+  "dgSpecHash": "PlOY722rjSt/1xGzr+oLLSZuS43oYwLnM/gurnCiawnDp6k7q9b+uh0JpF1C8TH0fPyNab97OUzMWsYyq7wFvA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\09Eventos\\09Eventos.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\09Eventos\\09Eventos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

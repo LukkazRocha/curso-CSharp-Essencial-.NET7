@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LD4kDuxiRWLUVc1LGNWGXhG2PaIy0oThrIf8HFIioXvkH28XcC+NH9CyUg1SYb25Ye/LazMQP6+zE7RBZHpjtA==",
+  "dgSpecHash": "yCTx/4/lWSxc4pl2tp3/Ab17eqxhRVeupBHD+A/EDG0VtVJczQsMklCbf1OZ87eqQWXnOgA3ms7mjjaBFqs/sA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\14LINQAgrupamento1\\14LINQAgrupamento1.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\DelegatesLambdaLinq\\14LINQAgrupamento1\\14LINQAgrupamento1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -19,7 +19,6 @@ var produtosPorCategoria = listaProdutos
 
 foreach (var grupo in produtosPorCategoria)
 {
-    Console.WriteLine();
     Console.WriteLine(grupo.Categoria);
 
 	foreach (var produto in grupo.Produtos)
