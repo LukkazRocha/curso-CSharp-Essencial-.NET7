@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\refint\04DirectoryInfo1.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\04DirectoryInfo1\obj\Debug\net7.0\ref\04DirectoryInfo1.dll

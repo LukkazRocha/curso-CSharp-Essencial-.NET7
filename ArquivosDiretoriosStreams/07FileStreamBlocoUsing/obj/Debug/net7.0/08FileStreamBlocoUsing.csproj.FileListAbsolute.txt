@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\bin\Debug\net7.0\08FileStreamBlocoUsing.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\bin\Debug\net7.0\08FileStreamBlocoUsing.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\bin\Debug\net7.0\08FileStreamBlocoUsing.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\bin\Debug\net7.0\08FileStreamBlocoUsing.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\bin\Debug\net7.0\08FileStreamBlocoUsing.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\refint\08FileStreamBlocoUsing.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\08FileStreamBlocoUsing.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ArquivosDiretoriosStreams\07FileStreamBlocoUsing\obj\Debug\net7.0\ref\08FileStreamBlocoUsing.dll
