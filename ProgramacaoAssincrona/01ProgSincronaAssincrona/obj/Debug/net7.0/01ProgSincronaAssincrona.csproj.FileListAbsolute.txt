@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\bin\Debug\net7.0\01ProgSincronaAssincrona.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\bin\Debug\net7.0\01ProgSincronaAssincrona.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\bin\Debug\net7.0\01ProgSincronaAssincrona.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\bin\Debug\net7.0\01ProgSincronaAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\bin\Debug\net7.0\01ProgSincronaAssincrona.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\refint\01ProgSincronaAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\01ProgSincronaAssincrona.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\01ProgSincronaAssincrona\obj\Debug\net7.0\ref\01ProgSincronaAssincrona.dll
