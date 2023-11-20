@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\refint\02TaskProgAssincrona.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\02TaskProgAssincrona\obj\Debug\net7.0\ref\02TaskProgAssincrona.dll
