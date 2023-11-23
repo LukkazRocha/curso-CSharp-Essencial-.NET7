@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\bin\Debug\net7.0\04ValueTask_T.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\bin\Debug\net7.0\04ValueTask_T.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\bin\Debug\net7.0\04ValueTask_T.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\bin\Debug\net7.0\04ValueTask_T.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\bin\Debug\net7.0\04ValueTask_T.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\refint\04ValueTask_T.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\04ValueTask_T.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\04ValueTask_T\obj\Debug\net7.0\ref\04ValueTask_T.dll

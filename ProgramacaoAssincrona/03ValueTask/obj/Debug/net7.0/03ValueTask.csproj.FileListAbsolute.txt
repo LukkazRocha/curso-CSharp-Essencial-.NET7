@@ -1,0 +1,14 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\bin\Debug\net7.0\03ValueTask.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\bin\Debug\net7.0\03ValueTask.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\bin\Debug\net7.0\03ValueTask.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\bin\Debug\net7.0\03ValueTask.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\bin\Debug\net7.0\03ValueTask.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\refint\03ValueTask.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\03ValueTask.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\03ValueTask\obj\Debug\net7.0\ref\03ValueTask.dll
