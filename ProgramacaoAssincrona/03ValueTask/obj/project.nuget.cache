@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uxFXNiwxi6hr+usuo6ZncrWY2CRRbXcc/9EGKSrWtCGxp06+fbG6W6Zbb/X980jhTYrm7dYM6AkY5+nGTAQ8ZA==",
+  "dgSpecHash": "9J7dZqKQO36gH2QwIRbGYyJsZUpu9r/pd1au67E3wvoHldwZP7lyPeyGF6Uho+CRa0p7581EhfMnZTdpfeV1dw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\03ValueTask\\03ValueTask.csproj",
+  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\03ValueTask\\03ValueTask.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

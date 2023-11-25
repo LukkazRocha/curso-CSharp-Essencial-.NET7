@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01ProgSincronaAssincrona", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02TaskProgAssincrona", "02TaskProgAssincrona\02TaskProgAssincrona.csproj", "{DBA9C9B5-4BF5-4D6B-88F4-9D5E1D0C6112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ValueTask", "03ValueTask\03ValueTask.csproj", "{C7003780-C4F3-4350-B001-2F65214F8244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03ValueTask", "03ValueTask\03ValueTask.csproj", "{C7003780-C4F3-4350-B001-2F65214F8244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ValueTask_T", "04ValueTask_T\04ValueTask_T.csproj", "{14EA04CE-85C1-4CAC-A31B-86C7485ABCB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04ValueTask_T", "04ValueTask_T\04ValueTask_T.csproj", "{14EA04CE-85C1-4CAC-A31B-86C7485ABCB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05TaskCancel", "05TaskCancel\05TaskCancel.csproj", "{225ABA88-A8FC-4566-BAE0-00925C6909C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06TratamentoException1", "06TratamentoException1\06TratamentoException1.csproj", "{4023C37A-3129-4AFF-9FC8-B07A511AC4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{14EA04CE-85C1-4CAC-A31B-86C7485ABCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14EA04CE-85C1-4CAC-A31B-86C7485ABCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14EA04CE-85C1-4CAC-A31B-86C7485ABCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225ABA88-A8FC-4566-BAE0-00925C6909C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225ABA88-A8FC-4566-BAE0-00925C6909C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225ABA88-A8FC-4566-BAE0-00925C6909C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225ABA88-A8FC-4566-BAE0-00925C6909C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4023C37A-3129-4AFF-9FC8-B07A511AC4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4023C37A-3129-4AFF-9FC8-B07A511AC4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4023C37A-3129-4AFF-9FC8-B07A511AC4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4023C37A-3129-4AFF-9FC8-B07A511AC4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

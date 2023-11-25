@@ -1,0 +1,15 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\bin\Debug\net7.0\05TaskCancel.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\bin\Debug\net7.0\05TaskCancel.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\bin\Debug\net7.0\05TaskCancel.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\bin\Debug\net7.0\05TaskCancel.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\bin\Debug\net7.0\05TaskCancel.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.sourcelink.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\refint\05TaskCancel.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\05TaskCancel.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\05TaskCancel\obj\Debug\net7.0\ref\05TaskCancel.dll
