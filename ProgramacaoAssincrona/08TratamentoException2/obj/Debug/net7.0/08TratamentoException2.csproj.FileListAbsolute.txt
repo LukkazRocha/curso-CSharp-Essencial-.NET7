@@ -1,0 +1,15 @@
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\bin\Debug\net7.0\08TratamentoException2.exe
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\bin\Debug\net7.0\08TratamentoException2.deps.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\bin\Debug\net7.0\08TratamentoException2.runtimeconfig.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\bin\Debug\net7.0\08TratamentoException2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\bin\Debug\net7.0\08TratamentoException2.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.AssemblyInfoInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.AssemblyInfo.cs
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.csproj.CoreCompileInputs.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.sourcelink.json
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\refint\08TratamentoException2.dll
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.pdb
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\08TratamentoException2.genruntimeconfig.cache
+C:\workspace\Curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\08TratamentoException2\obj\Debug\net7.0\ref\08TratamentoException2.dll
