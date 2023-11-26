@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LINQMotivacao1/1.0.0": {
+        "runtime": {
+          "LINQMotivacao1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQMotivacao1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
