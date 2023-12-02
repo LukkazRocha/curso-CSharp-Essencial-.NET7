@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vVjtOcRy+VNh4NC6VpGk//h127CPFDvYqVimHehc74s3a0tLv4ozpvm4e2On1V3JaSrIL6e3UINIvbYgwST4w==",
+  "dgSpecHash": "bQ4htdwMMKctbtwxh92Zw9egVVKZhp0OXF1y6eDZs8SVunA4NPRzQbLkEsYianSnbpZc9Hw9cPwdLfFtugJsYg==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\02TaskProgAssincrona\\02TaskProgAssincrona.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\02TaskProgAssincrona\\02TaskProgAssincrona.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

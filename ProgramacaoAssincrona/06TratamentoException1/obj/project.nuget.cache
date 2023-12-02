@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPxO5pon9pvFT0k398pwYSDZ8vPLaMjQT98pZnswjqHDjMIfDSsKjhW78GSMordgFMZOPQvrjwc1G1KcddLkzA==",
+  "dgSpecHash": "6Jab9TnFHFVGXRB0NGl3PAdkHIrV1H97W5Co/ZWz7hqv+8tkuxnXGK5Chst10WDdL42osD/CxSHTuqr7O5WBPA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\06TratamentoException1\\06TratamentoException1.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\06TratamentoException1\\06TratamentoException1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

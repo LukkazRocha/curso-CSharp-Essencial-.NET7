@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QEAP4+d6sCpoCwllhk+0m3ro4G5q7tqyNxQLMxXUca2V9KfMlSGCWgta0/DFkBIx5Sk8JNYjEfwh+AAivyjGbA==",
+  "dgSpecHash": "ec+p43HSJvXneRZa7AM70R3wV4QNhQj9XGn2hqpJ7P9E0ZZgNxAIt6zdqgNdG0NAgzYUbPgrXQ4JXfA3wMFF6A==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\01ProgSincronaAssincrona\\01ProgSincronaAssincrona.csproj",
+  "projectFilePath": "C:\\workspace\\curso-CSharp-Essencial-.NET7\\ProgramacaoAssincrona\\01ProgSincronaAssincrona\\01ProgSincronaAssincrona.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

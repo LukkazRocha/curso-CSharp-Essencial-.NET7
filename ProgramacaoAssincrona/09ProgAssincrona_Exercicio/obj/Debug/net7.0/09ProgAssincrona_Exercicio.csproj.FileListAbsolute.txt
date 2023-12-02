@@ -1,0 +1,15 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\bin\Debug\net7.0\09ProgAssincrona_Exercicio.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\bin\Debug\net7.0\09ProgAssincrona_Exercicio.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\bin\Debug\net7.0\09ProgAssincrona_Exercicio.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\bin\Debug\net7.0\09ProgAssincrona_Exercicio.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\bin\Debug\net7.0\09ProgAssincrona_Exercicio.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.sourcelink.json
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\refint\09ProgAssincrona_Exercicio.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\09ProgAssincrona_Exercicio.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\ProgramacaoAssincrona\09ProgAssincrona_Exercicio\obj\Debug\net7.0\ref\09ProgAssincrona_Exercicio.dll

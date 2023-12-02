@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQMotivacao1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7666063c56e35145c3042de452fa099e89e262")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQMotivacao1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQMotivacao1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
