@@ -1,0 +1,15 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\bin\Debug\net7.0\02LINQProjecao.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\bin\Debug\net7.0\02LINQProjecao.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\bin\Debug\net7.0\02LINQProjecao.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\bin\Debug\net7.0\02LINQProjecao.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\bin\Debug\net7.0\02LINQProjecao.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.sourcelink.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\refint\02LINQProjecao.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\02LINQProjecao.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\02LINQProjecao\obj\Debug\net7.0\ref\02LINQProjecao.dll
