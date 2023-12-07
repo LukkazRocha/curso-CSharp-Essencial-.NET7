@@ -1,0 +1,15 @@
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\bin\Debug\net7.0\03LINQ_OperacoesConjunto.exe
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\bin\Debug\net7.0\03LINQ_OperacoesConjunto.deps.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\bin\Debug\net7.0\03LINQ_OperacoesConjunto.runtimeconfig.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\bin\Debug\net7.0\03LINQ_OperacoesConjunto.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\bin\Debug\net7.0\03LINQ_OperacoesConjunto.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.AssemblyInfoInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.AssemblyInfo.cs
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.csproj.CoreCompileInputs.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.sourcelink.json
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\refint\03LINQ_OperacoesConjunto.dll
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.pdb
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\03LINQ_OperacoesConjunto.genruntimeconfig.cache
+C:\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\03LINQ_OperacoesConjunto\obj\Debug\net7.0\ref\03LINQ_OperacoesConjunto.dll
