@@ -1,0 +1,15 @@
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\bin\Debug\net7.0\04LINQ_OperacoesConjunto2.exe
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\bin\Debug\net7.0\04LINQ_OperacoesConjunto2.deps.json
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\bin\Debug\net7.0\04LINQ_OperacoesConjunto2.runtimeconfig.json
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\bin\Debug\net7.0\04LINQ_OperacoesConjunto2.dll
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\bin\Debug\net7.0\04LINQ_OperacoesConjunto2.pdb
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.AssemblyInfoInputs.cache
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.AssemblyInfo.cs
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.sourcelink.json
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.dll
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\refint\04LINQ_OperacoesConjunto2.dll
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.pdb
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\04LINQ_OperacoesConjunto2.genruntimeconfig.cache
+D:\Lucas\workspace\curso-CSharp-Essencial-.NET7\LINQModuloExtra\04LINQ_OperacoesConjunto2\obj\Debug\net7.0\ref\04LINQ_OperacoesConjunto2.dll
